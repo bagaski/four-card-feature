@@ -86,3 +86,12 @@ header p {
 .calculator {
   border-top: 4px solid var(--blue);
 }
+
+
+@media all and (min-width: 1200px)  {
+
+  .card-shift {
+    transform: translateY(50%);
+  }
+
+}
